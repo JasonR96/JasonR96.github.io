@@ -1,8 +1,27 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/index.html</loc>
+    <loc>https://jiayang.site/Blog/CC_getting_started.html</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiayang.site/Experience/index.html</loc>
+    
+    <lastmod>2023-01-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiayang.site/index.html</loc>
     
     <lastmod>2022-12-12</lastmod>
     
@@ -11,7 +30,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Publications/index.html</loc>
+    <loc>https://jiayang.site/Publications/index.html</loc>
     
     <lastmod>2022-12-12</lastmod>
     
@@ -20,7 +39,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Experience/index.html</loc>
+    <loc>https://jiayang.site/Blog/index.html</loc>
     
     <lastmod>2022-12-12</lastmod>
     
@@ -29,25 +48,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/Blog/index.html</loc>
-    
-    <lastmod>2022-12-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/Blog/CC_getting_started.html</loc>
-    
-    <lastmod>2022-11-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/Photography/index.html</loc>
+    <loc>https://jiayang.site/Photography/index.html</loc>
     
     <lastmod>2022-02-06</lastmod>
     
@@ -57,8 +58,8 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
-    <lastmod>2022-12-12</lastmod>
+    <loc>https://jiayang.site/</loc>
+    <lastmod>2023-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
